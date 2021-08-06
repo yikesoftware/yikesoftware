@@ -4,4 +4,4 @@
 
 🏫 Xidian University
 
-🧑‍💻 Binary Security Researcher / CTF Player
+🧑‍💻 Binary Security / CTF Player
