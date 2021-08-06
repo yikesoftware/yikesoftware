@@ -4,4 +4,6 @@
 
 🏫 Xidian University
 
+⚔️ L-team
+
 🧑‍💻 Binary Security / CTF Player
