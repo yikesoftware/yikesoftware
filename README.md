@@ -1,4 +1,4 @@
-😄 赤道企鹅 / eqqie
+😄 赤道企鹅 / eqqie(Equatorial Penguin)
 
 📕 Blog: https://eqqie.cn/
 
