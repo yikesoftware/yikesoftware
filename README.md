@@ -1,9 +1,9 @@
 😄 赤道企鹅 / eqqie(Equatorial Penguin)
 
-📕 Blog: https://eqqie.cn/
+📕 Blog: [Eqqie's Blog](https://eqqie.cn/)
 
 🏫 Xidian University
 
-⚔️ L-team
+⚔️ L-team: [CTFtime / L](https://ctftime.org/team/11724)
 
 🧑‍💻 Binary Security / CTF Player
