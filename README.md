@@ -4,6 +4,6 @@
 
 🏫 Xidian University
 
-⚔️ L-team: [CTFtime / L](https://ctftime.org/team/11724)
+⚔️ L-team (2019): [CTFtime / L](https://ctftime.org/team/11724)
 
 🧑‍💻 Binary Security / CTF Player
