@@ -5,7 +5,7 @@
 
 😄 赤道企鹅 / eqqie (Equatorial Penguin)
 
-📕 Blog: [Eqqie's Blog](https://eqqie.cn/)
+📕 [Eqqie's Blog](https://eqqie.cn/)
 
 🏫 Xidian University
 
