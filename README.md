@@ -1,4 +1,6 @@
-😄 赤道企鹅 / eqqie(Equatorial Penguin)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=victoryang00&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" />
+
+😄 赤道企鹅 / eqqie (Equatorial Penguin)
 
 📕 Blog: [Eqqie's Blog](https://eqqie.cn/)
 
@@ -7,5 +9,3 @@
 ⚔️ L-team (2019): [CTFtime / L](https://ctftime.org/team/11724)
 
 🧑‍💻 Binary Security / CTF Player
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=victoryang00&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" />
