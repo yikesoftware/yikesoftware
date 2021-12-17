@@ -9,6 +9,6 @@
 
 🏫 Xidian University
 
-⚔️ L-team (2019): [::TEAM L::](https://l.xdsec.org/)
+⚔️ Member of L-team (2019): [::TEAM L::](https://l.xdsec.org/)
 
 🧑‍💻 Binary Security / IoT Security  / CTF Player
