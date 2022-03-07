@@ -3,7 +3,7 @@
 
 ### 👋 Hi there, I am ...
 
-😄 :cn:赤道企鹅 / eqqie (Equatorial Penguin)
+😄 赤道企鹅 / eqqie (Equatorial Penguin)
 
 📕 [Eqqie's Blog](https://eqqie.cn/)
 
