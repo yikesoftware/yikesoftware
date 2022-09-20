@@ -12,3 +12,12 @@
 ⚔️ Member of L-team (2019): [::TEAM L::](https://l.xdsec.org/about.html)
 
 🧑‍💻 Binary Security / IoT Security  / CTF Player
+
+------
+
+| Id      | Desc |
+| ----------- | ----------- |
+| [CVE-2022-33099][5] | Lua: Heap overflow       |
+| [CVE-2022-38333][6] | Openwrt: Off-by-one        |
+| [CVE-2022-40468][7] | Tinyproxy: Runtime info leak        |
+| [CVE-2022-40469][8] | iKuaiOS: Remote code execution        |
