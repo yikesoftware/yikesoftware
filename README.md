@@ -16,7 +16,7 @@
 ------
 
 | ID   | Project |  | Desc |
-| ----------- | ----------- |
+| ----------- | ----------- | ----------- |
 | [CVE-2022-33099](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-33099) | Lua | Heap overflow       |
 | [CVE-2022-38333](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-38333) | Openwrt | Off-by-one        |
 | [CVE-2022-40468](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-40468) | Tinyproxy | Runtime info leak        |
