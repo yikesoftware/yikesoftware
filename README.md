@@ -15,6 +15,8 @@
 
 ------
 
+### Some disclosed vuln id
+
 | ID   | Project | Desc |
 | ----------- | ----------- | ----------- |
 | [CVE-2022-33099](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-33099) | Lua | Heap overflow       |
