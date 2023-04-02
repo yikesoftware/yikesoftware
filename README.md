@@ -10,7 +10,7 @@
 
 ⚔️ Member of L-team (2019): [::TEAM L::](https://l.xdsec.org/about.html)
 
-🧑‍💻 Binary Security / IoT Security  / CTF Player
+🧑‍💻 Binary Security Research / IoT Security / Virtualization  / CTF Player
 
 ------
 
