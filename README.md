@@ -10,7 +10,7 @@
 
 ⚔️ Member of L-team (2019): [::TEAM L::](https://l.xdsec.org/about.html)
 
-🧑‍💻 Binary Security Research / Baby Bug Hunter / IoT Security / Virtualization / Fuzzing Test / CTF Pwner
+🧑‍💻 Binary Security Research / IoT Security / Virtualization / Fuzzing Test / CTF Pwner
 
 ------
 
