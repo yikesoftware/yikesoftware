@@ -6,7 +6,7 @@
 
 📕 [Eqqie's Blog](https://eqqie.cn/)
 
-🏫 Xidian University (XDU) / University of Chinese Academy of Sciences (UCAS)
+🏫 Xidian University / University of Chinese Academy of Sciences (UCAS)
 
 ⚔️ Member of L-team (2019): [::TEAM L::](https://l.xdsec.org/about.html)
 
