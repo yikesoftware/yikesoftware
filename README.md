@@ -8,7 +8,7 @@
 
 🏫 Xidian University / University of Chinese Academy of Sciences (UCAS)
 
-⚔️ Member of [L-team](https://l.xdsec.org/about.html)(2019) /[NeSE](https://nese.team/) (2023) 
+⚔️ Member of [L-team](https://l.xdsec.org/about.html) (2019) /[NeSE](https://nese.team/) (2023) 
 
 🧑‍💻 Binary Security Research / IoT Security / Virtualization / Fuzzing Test / CTF Pwner
 
