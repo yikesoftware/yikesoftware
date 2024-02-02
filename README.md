@@ -10,7 +10,7 @@
 
 ⚔️ Member of [L-team](https://l.xdsec.org/about.html)&nbsp;(2019) / [NeSE](https://nese.team/) (2023) 
 
-🧑‍💻 Binary Security Research / IoT Security / Virtualization / Fuzzing Test / CTF Pwner
+🧑‍💻 Binary Security Researcher / IoT Security / NFV Sec / Fuzzing Test / CTF Pwner
 
 ------
 
